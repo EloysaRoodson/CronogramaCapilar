@@ -4,11 +4,11 @@ Desafio Git/GITHUB
 Bem-vindos ao meu cronograma capilar!
 
 - **semanas.md**: cronograma da primeira semana
-- 
+  
 Segunda:	Hidratação,	Vegan Repair,	Skala Abacate,	Máscara SOS Hidratação (com óleo de rícino)	Óleo Poderosos
 Quarta:	Nutrição,	Vegan Repair,	Skala Abacate,	Máscara Disciplinante	Óleo Extraordinário
 Sexta:	Hidratação,	Vegan Repair,	Skala Abacate,	Máscara SOS Bomba	Óleo Maravilhas
-- 
+  
 - **produtos.md**: lista de produtos que uso
 
 Shampoo Skala Expert Abacate com Óleo de Rícino
